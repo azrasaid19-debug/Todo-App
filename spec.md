@@ -1,20 +1,25 @@
-# Todo App – Project Specification
+# Todo App – Project Spec
 
-## Objective
-Build a simple and user-friendly Todo List application using only HTML, CSS, and JavaScript.
+## Overview
 
-## Functional Requirements
-- Users can add new tasks
-- Users can mark tasks as completed
-- Users can delete tasks
-- Tasks must persist using localStorage
-- Users can filter tasks by status
+This project is a simple Todo List web application that allows users to manage daily tasks.
 
-## Non-Functional Requirements
-- Clean and readable code
-- Beginner-friendly structure
-- Responsive design for mobile devices
+## Goals
 
-## Tools Used
-- Replit (development environment)
-- ChatGPT (AI assistance)
+- Practice DOM manipulation
+- Understand localStorage
+- Build a fully client-side application
+- Deploy a static site using GitHub Pages
+
+## Features
+
+- Add new todos
+- Toggle completion status
+- Delete todos
+- Persist data using localStorage
+
+## Technical Notes
+
+- Built with vanilla HTML, CSS, and JavaScript
+- No frameworks or libraries used
+- Deployed using GitHub Pages from the main branch
